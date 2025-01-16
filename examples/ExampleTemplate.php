@@ -9,7 +9,7 @@
  *   - <key step 1>
  *   - <key step 2
  *   - ...
- *
+ * RUN rm /usr/local/etc/php/conf.d/docker-php-ext-xdebug.ini
  * <describe assumptions about the user's stripe account, environment, or configuration;
  * or things to watch out for when running>
  */
